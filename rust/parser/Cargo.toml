@@ -11,7 +11,7 @@ scale-info = "1.0.0"
 hex = "0.4.3"
 parity-scale-codec = { version = "2.2.0", default-features = false, features = ["std", "bit-vec"], optional = false}
 parity-scale-codec-derive = "2.2.0"
-regex = "1.4.5"
+regex = "1.5.5"
 frame-metadata = { version = "14.0.0", default-features = false, features = ["v12", "v13", "v14", "std"]}
 printing_balance = {path = "../printing_balance"}
 bitvec = "0.20.4"
